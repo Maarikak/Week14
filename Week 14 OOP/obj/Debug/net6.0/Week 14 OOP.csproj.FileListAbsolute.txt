@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\bin\Debug\net6.0\Week 14 OOP.exe
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\bin\Debug\net6.0\Week 14 OOP.deps.json
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\bin\Debug\net6.0\Week 14 OOP.runtimeconfig.json
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\bin\Debug\net6.0\Week 14 OOP.dll
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\bin\Debug\net6.0\Week 14 OOP.pdb
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.dll
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\refint\Week 14 OOP.dll
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.pdb
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\Week 14 OOP.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\Week 14 OOP\Week 14 OOP\obj\Debug\net6.0\ref\Week 14 OOP.dll
